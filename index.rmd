@@ -1,28 +1,39 @@
 ---
-title: DOTS
-author: lucascfernandez
+title: MEP
+author: lucasc.fernandez
 ---
 
-# *
+# *	*	*
 
 ![*Ilustración en contexto de la Revolución Francesa*](liq.png)
 
+# PRESENTACIÓN
 
+*Partiendo del supuesto que el conocimiento solamente tiene valor cuando es compartido y difundido permanentemente, en este lugar podrás acceder a algunos apuntes (personales y aún no completos) sobre las materias de Derecho Civil, Derecho Procesal y Derechos Humanos, además de un glosario con conceptos que he ido reuniendo a lo largo del tiempo. Sin perjuicio de lo anterior, dichos archivos se encuentran en este [repositorio](https://github.com/lucascfernandez/mep), los cuales pueden ser descargados y editados por cualquier persona bastando para eso tener un editor de texto.*
+
+*Vale señalar, que estos archivos están en formato Markdown, debido a su sintaxis extremadamente fácil de manipulación. Además, tal como indica su nombre, tiene la característica de ser "permanente" y será constantemente modificado, ojalá que para mejor.*
+
+*Por último, para contactarse para su autor, remitir correo electrónico a la dirección que está al inicio de la página, siempre será bienvenida cualquier tipo de colaboración o feedback.*
+
+*Saludos!*
 
 # MATERIAL ESTUDIO
 
-Para acceder a los apuntes personales, ir:
+Para acceder a los apuntes antes mencionados, ir a:
 
-* [Apuntes Civil](https://github.com/lucascfernandez/dots/blob/main/civil.html)
-* [Apuntes Procesal](https://github.com/lucascfernandez/dots/blob/main/procesal.html)
-* [Apuntes Humanos](https://github.com/lucascfernandez/dots/blob/main/humanos.html)
-* [Glosario de Conceptos](https://github.com/lucascfernandez/dots/blob/main/conceptos.html)
+* [Apuntes Civil](https://github.com/lucascfernandez/mep/blob/main/vimwiki/vimwiki/civil.md)
+* [Apuntes Procesal](https://github.com/lucascfernandez/mep/blob/main/vimwiki/vimwiki/procesal.md)
+* [Apuntes Humanos](https://github.com/lucascfernandez/mep/blob/main/vimwiki/vimwiki/humanos.md)
+---
+Para acceder al glosario con conceptos, ir a:
 
-*Estos materiales están en constante modificación y no representan un trabajo concluido.*
+* [Glosario de Conceptos](https://github.com/lucascfernandez/mep/blob/main/vimwiki/vimwiki/conceptos.md)
 
-## ABREVIATURAS
+*(Se recuerda que estos materiales están en constante modificación y no representan, bajo ningún aspecto, un trabajo concluido)*
 
-Se recomienda tener presente las siguientes abreviaturas, las cuales son utilizadas en los apuntes señalados arriba.
+# ABREVIATURAS
+
+Dado que los apuntes fueron confeccionados privilegiando la rapidez y la síntesis, se recomienda tener presente las siguientes abreviaturas:
 
 + **COS**   = *citación a oír sentencia*
 + **df.**   = *definición*
@@ -34,5 +45,3 @@ Se recomienda tener presente las siguientes abreviaturas, las cuales son utiliza
 + **rg.**   = *regla general*
 + **re.**   = *regla especial*
 + **ss.**   = *siguiente*
-
-# *	*
