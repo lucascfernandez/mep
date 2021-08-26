@@ -54,13 +54,17 @@ Teniendo presente una mejor instancia de análisis, y de concentración al momen
 
 Dado que los apuntes fueron confeccionados privilegiando la rapidez y la síntesis, se recomienda tener presente las siguientes abreviaturas:
 
-+ **COS*-   = *citación a oír sentencia*
-+ **df.*-   = *definición*
-+ **excp.*- = *excepción*
-+ **i.*-   = *instrumento*
-+ **MPR*-   = *medidas para mejor resolver*
-+ **OCDE*-  = *Organización para la Cooperación y el Desarrollo Económico*
++ **COS**   = *citación a oír sentencia*
++ **df.**   = *definición*
++ **excp.** = *excepción*
++ **i.**    = *instrumento*
++ **MPR**   = *medidas para mejor resolver*
++ **OCDE**  = *Organización para la Cooperación y el Desarrollo Económico*
 + **p. ej.**= *por ejemplo*
-+ **rg.*-   = *regla general*
-+ **re.*-   = *regla especial*
-+ **ss.*-   = *siguiente*
++ **rg.**   = *regla general*
++ **re.**   = *regla especial*
++ **ss.**   = *siguiente*
+
+
+
+# *	*	*
