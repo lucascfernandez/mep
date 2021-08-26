@@ -9,7 +9,7 @@ author: lucasc.fernandez@gmail.com
 
 # PRESENTACIÓN
 
-## MEP,  Material de Estudio Permanente
+## MEP: Material de Estudio Permanente
 
 *Partiendo del supuesto que el conocimiento solamente tiene valor cuando es compartido y difundido permanentemente, en este lugar podrás acceder a algunos apuntes (personales y aún no completos) sobre las materias de Derecho Civil, Derecho Procesal y Derechos Humanos, además de un glosario con conceptos que he ido reuniendo a lo largo del tiempo. Sin perjuicio de lo anterior, dichos archivos se encuentran en este [repositorio](https://github.com/lucascfernandez/mep), los cuales pueden ser descargados y editados por cualquier persona bastando para eso tener un editor de texto.*
 
