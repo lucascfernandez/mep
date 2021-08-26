@@ -15,7 +15,7 @@ author: lucasc.fernandez@gmail.com
 
 *Vale señalar, que estos archivos están en formato Markdown, debido a su sintaxis extremadamente fácil de manipulación. Además, tal como indica su nombre, tiene la característica de ser "permanente" y será constantemente modificado, ojalá que para mejor.*
 
-*Por último, para contactarse para su autor, remitir correo electrónico a la dirección que está al inicio de la página, siempre será bienvenida cualquier tipo de colaboración o feedback.*
+*Por último, para contactarse con su autor, remitir correo electrónico a la dirección que está al inicio de la página, siempre será bienvenida cualquier tipo de colaboración o feedback.*
 
 *Saludos!*
 
@@ -34,12 +34,12 @@ Para acceder al glosario con conceptos, ir a:
 
 - [Glosario de Conceptos](https://github.com/lucascfernandez/mep/blob/main/vimwiki/vimwiki/conceptos.md)
 
-*(Se recuerda que estos materiales están en constante modificación y no representan, bajo ningún aspecto, un trabajo concluido)*
+*(Se recuerda que estos materiales están en constante modificación, y no representan bajo ningún aspecto un trabajo concluido)*
 
 
 ## MATERIALES DE SOPORTE
 
-Con el fin de que el contenido de los apuntes sean relación con las materias de fondo, se pone a disposición del visitante los siguientes materiales:
+Con el fin de que el contenido de los apuntes tengan relación con las materias de fondo, se pone a disposición del visitante los siguientes materiales:
 
 - [Carpeta Soporte Derechos Humanos](https://drive.google.com/drive/folders/1uEzCTRiRCATBn_9uME-51CLfqgjXGHXf?usp=sharing)
 
