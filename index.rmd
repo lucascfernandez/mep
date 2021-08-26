@@ -26,13 +26,17 @@ Para acceder a los apuntes antes mencionados, ir a:
 * [Apuntes Civil](https://github.com/lucascfernandez/mep/blob/main/vimwiki/vimwiki/civil.md)
 * [Apuntes Procesal](https://github.com/lucascfernandez/mep/blob/main/vimwiki/vimwiki/procesal.md)
 * [Apuntes Humanos](https://github.com/lucascfernandez/mep/blob/main/vimwiki/vimwiki/humanos.md)
+
 ---
+
 Para acceder al glosario con conceptos, ir a:
 
 * [Glosario de Conceptos](https://github.com/lucascfernandez/mep/blob/main/vimwiki/vimwiki/conceptos.md)
 
 *(Se recuerda que estos materiales están en constante modificación y no representan, bajo ningún aspecto, un trabajo concluido)*
+
 ---
+
 ## MATERIALES DE SOPORTE
 
 Con el fin de que el contenido de los apuntes sean relación con las materias de fondo, se pone a disposición del visitante los siguientes materiales:
@@ -40,6 +44,7 @@ Con el fin de que el contenido de los apuntes sean relación con las materias de
 * [Carpeta Soporte Derechos Humanos](https://drive.google.com/drive/folders/1uEzCTRiRCATBn_9uME-51CLfqgjXGHXf?usp=sharing)
 * [Carpeta con Esquemas](https://drive.google.com/drive/folders/1LKwkIFfM3sOfk-ea_Xww4Hpz6z_gED4m?usp=sharing)
 ---
+
 Teniendo presente una mejor instancia de análisis, y de concentración al momento de realizar las respectivas lecturas, se recomienda hacerlo escuchando alguna pista de audio acorde, tal como las contenidas en la siguiente carpeta:
 
 * [Carpeta de Audios](https://drive.google.com/drive/folders/1I50MrC5LsfSD77XpfU3vgcf2zxVlDjzS?usp=sharing)
