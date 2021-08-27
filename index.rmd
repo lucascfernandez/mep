@@ -7,9 +7,10 @@ author: lucasc.fernandez@gmail.com
 
 # *	*	*
 
-![*Ilustración en contexto de la Revolución Francesa*](liq.png)
 
 # PRESENTACIÓN
+
+<img align="right" src="liq.png">
 
 ## MEP: Material de Estudio Permanente
 
@@ -65,7 +66,15 @@ Teniendo presente una mejor instancia de análisis, y de concentración al momen
 
 - [Carpeta de Audios](https://drive.google.com/drive/folders/1I50MrC5LsfSD77XpfU3vgcf2zxVlDjzS?usp=sharing)
 
+# DOTFILES
 
+
+Por otro lado, si el visitantes es usuario o le llama la atención el sistema operativo GNU/Linux, el autor mantiene público sus archivos de configuración, los cuales pueden ser clonados y probados. Por lo que le recomendaría ir a:
+
+- [Repositorio](https://github.com/lucascfernandez/dots)
+
+
+![*Captura de Pantalla](screenshot.png)
 
 
 
