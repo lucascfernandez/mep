@@ -1,7 +1,9 @@
 ---
-title: MEP
+title: MEP | DOTS
 author: lucasc.fernandez@gmail.com
 ---
+
+
 
 # *	*	*
 
@@ -19,7 +21,7 @@ author: lucasc.fernandez@gmail.com
 
 *Saludos!*
 
-# MATERIAL ESTUDIO
+## MATERIAL ESTUDIO
 
 Para acceder a los apuntes antes mencionados, ir a:
 
@@ -50,7 +52,7 @@ Teniendo presente una mejor instancia de análisis, y de concentración al momen
 - [Carpeta de Audios](https://drive.google.com/drive/folders/1I50MrC5LsfSD77XpfU3vgcf2zxVlDjzS?usp=sharing)
 
 
-# ABREVIATURAS
+## ABREVIATURAS
 
 Dado que los apuntes fueron confeccionados privilegiando la rapidez y la síntesis, se recomienda tener presente las siguientes abreviaturas:
 
