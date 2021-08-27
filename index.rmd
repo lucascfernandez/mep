@@ -81,8 +81,12 @@ Si necesitas ayuda con importar los mazos vea el siguiente vídeo:
 
 
 - [Tutorial "Importar Mazos PC"](https://drive.google.com/file/d/198zBvDzHc1i9V1j3z5ZFZY0DK9MYLO5p/view?usp=sharing)
-<img align="right" src="impc.png">
 
+![](impc.png)
+
+- [Tutorial "Importar Mazos Android"](https://drive.google.com/file/d/1w9EuyVYxi3ia-HgxukLB29gAZzWCezWl/view?usp=sharing)
+
+![](ima.png)
 
 
 ### Audio
