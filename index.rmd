@@ -56,15 +56,42 @@ Dado que los apuntes fueron confeccionados privilegiando la rapidez y la síntes
 
 ## MATERIALES DE SOPORTE
 
+### Carpetas con Materiales
+
 Con el fin de que el contenido de los apuntes tengan relación con las materias de fondo, se pone a disposición del visitante los siguientes materiales:
 
-- [Carpeta Soporte Derechos Humanos](https://drive.google.com/drive/folders/1uEzCTRiRCATBn_9uME-51CLfqgjXGHXf?usp=sharing)
+- [Carpeta Derechos Humanos](https://drive.google.com/drive/folders/1uEzCTRiRCATBn_9uME-51CLfqgjXGHXf?usp=sharing)
 
 - [Carpeta con Esquemas](https://drive.google.com/drive/folders/1LKwkIFfM3sOfk-ea_Xww4Hpz6z_gED4m?usp=sharing)
+
+### Tarjetas de Memoria
+
+El autor también pone a disposición del visitante sus mazos con tarjetas de memorias de la aplicación [Anki](https://ankiweb.net) la cual es gratuita, simple y funcional.
+
+Para acceder a ella basta con utilizarla desde su pagina web, pero recomiendo descargarla, tanto en su versión para [PC](https://apps.ankiweb.net), como para [android](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=es_CL&gl=US) (si tienes problema para descargar desde la pagina web, simplemente busque "Ankidroid" en la Google Store), como también para IOS (para lo cual recomiendo utilizar el navegador Safari mismo).
+
+Al tener la aplicación instalada puedes *importar* los mazos que dejaré a continuación:
+
+
+- [Mazos](https://drive.google.com/file/d/1tnvzcoHGSo6bV5p4YSYFRdJTfpgcgSFJ/view?usp=sharing)
+
+
+![Asegúrese de hacer el click en el ícono  "Descargar" en la parte superior derecha, y no en los archivos que aparecen en el centro.](m.png.svg)
+
+
+Si necesitas ayuda con importar los mazos vea el siguiente vídeo:
+
+
+- [Tutorial "Importar Mazos PC"](https://drive.google.com/file/d/198zBvDzHc1i9V1j3z5ZFZY0DK9MYLO5p/view?usp=sharing)
+<img align="right" src="impc.png">
+
+
+### Audio
 
 Teniendo presente una mejor instancia de análisis, y de concentración al momento de realizar las respectivas lecturas, se recomienda hacerlo escuchando alguna pista de audio acorde, tal como las contenidas en la siguiente carpeta:
 
 - [Carpeta de Audios](https://drive.google.com/drive/folders/1I50MrC5LsfSD77XpfU3vgcf2zxVlDjzS?usp=sharing)
+
 
 # DOTFILES
 
