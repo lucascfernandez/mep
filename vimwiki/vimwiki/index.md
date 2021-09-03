@@ -1,16 +1,15 @@
-| VIMWIKI | PERSONAL |
-
-| ------- | -------- |
+ VIMWIKI  PERSONAL
 
 
-# | DERECHO | Lucas Fernandez |
+
+#  DERECHO
 
 
-| -------                            | --------  |
-| [[Conceptos]]                      | [[Notas]] |
-| -------                            | --------  |
-| [[Civil]]                          |           |
-| [[Humanos]]                        |           |
-| [[Procesal]]                       |           |
-| -------                            | --------  |
-| *actualizado: septiembre 3, 2021 * |           |
+* [[Conceptos]]
+*
+* [[Civil]]
+* [[Humanos]]
+* [[Procesal]]
+
+
+* [[Notas]]
