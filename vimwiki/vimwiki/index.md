@@ -1,4 +1,4 @@
- VIMWIKI  PERSONAL
+# VIMWIKI  PERSONAL
 
 
 
@@ -6,7 +6,7 @@
 
 
 * [[Conceptos]]
-*
+
 * [[Civil]]
 * [[Humanos]]
 * [[Procesal]]
