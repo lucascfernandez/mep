@@ -1,6 +1,15 @@
-# DERECHO
+# VIMWIKI  PERSONAL
 
-- [[civil]]
-- [[conceptos]]
-- [[humanos]]
-- [[procesal]]
+
+
+#  DERECHO
+
+
+* [[Conceptos]]
+
+* [[Civil]]
+* [[Humanos]]
+* [[Procesal]]
+
+
+* [[Notas]]
