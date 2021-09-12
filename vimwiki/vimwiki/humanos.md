@@ -322,7 +322,7 @@
 	participar en la formación de la voluntad del Estado que se refleja en
 	el ejercicio de derechos políticos.
 
-- Teoría de las Generaciones o Dimensiones - Vasak
+- Teoría de las Generaciones - Vasak
 
     De 1979 por el jurista francés de origen checa una Conferencia en el
     Instituto Internacional de los Derechos Humanos en Estrasburgo fue tomada
@@ -717,7 +717,7 @@
 	implica necesariamente que se ha infringido también el art. 1.1 (Corte
 	IDH) deberes de respeto y garantía
 
-    - Obligación de Respetar los derechos y libertades
+    - Obligación de **Respetar** los derechos y libertades
 
 	tiene un carácter negativo, se trata de  el deber del Eº de
 	**abstenerse** de realizar cualquier tipo de acción que vulnere o
@@ -728,7 +728,7 @@
 	Está direccionado tanto a los Eº como a los individuos o entidades no
 	estatales.
 
-    - Obligación de Proteger
+    - Obligación de **Proteger**
 
 	Está dirigido principalmente al Eº y exige que proteja a los individuos
 	en contra de acciones u omisiones de terceros, hoy en día con el avance
@@ -737,7 +737,7 @@
 	estatales, como organizaciones internacionales o corporaciones
 	trasnacionales, véase Derechos Humanos y Empresas
 
-    - Obligación de Garantizar
+    - Obligación de **Garantizar**
 
 	Deber de los Eº en organizar todo el aparato gubernamental y en general
 	todas las estructuras a través de las cuales se manifiestan el
@@ -890,7 +890,7 @@
 	    propia todas aquellas medidas necesarias para los hechos
 	    violatorios no se vuelvan a repetir
 
-    - Deber general de promoción
+    - Deber general de **Promoción**
 
 	implica la proactividad estatal en la difusión de los derechos y la
 	educación necesaria para que los primeros interesados en su protección
@@ -925,6 +925,9 @@
     administrativas y de cualquier otro carácter que sean necesarias.
 
 # 7. Historia de los DD.HH.
+# 8. Historia de los DD.HH. Propiamente Tales
+
+Respecto a estos dos puntos ver apéndice titulado "Breve Reseña sobre la Historia de los Derechos Humanos".
 
 - Carta Magna 1215
 - Petición de Derechos 1628
@@ -933,7 +936,7 @@
 - Constitución de los EUA 1787
 - Carta de Derechos 1791
 - Declaración de los Derechos del hombre y del Ciudadano 1789
-- Declaración de la mujer y las ciudadanas 1789
+- Declaración de la Mujer y de la Ciudadana 1789
 - Independencia de Santo Domingo y Haití 1801
 - Primera Convención de Ginebra 1864
 - Constitución Mexicana 1917
@@ -944,7 +947,6 @@
 - Creación de la ONU 1945
 - TRB de Nuremberg
 
-# 8. Historia de los DD.HH. Propiamente Tales
 
 # 9. Principales Instrumentos Jurídicos de DD.HH.
 
@@ -958,31 +960,31 @@
 - Convención Contra la Tortura, Tratos o Penas Crueles, Inhumanos o Degradantes
 
 
-- Derecho a la Verdad
+	- Derecho a la Verdad
 
-	Tiene su origen en el DIH como aquél derecho que tienen los familiares
-	a conocer la suerte de las víctimas, y en la obligación de las partes
-	en conflictos armados de buscar a los desaparecidos.  Forma parte de
-	dicho derecho por estar sancionado expresamente en el art. 32 del
-	Protocolo Adicional a los Convenios de Ginebra de 1949. Sin embargo, si
-	bien en un principio sólo hizo referencia a las desapariciones
-	forzadas, el derecho a la verdad se ha ampliado progresivamente a otras
-	violaciones graves a los derechos humanos como las ejecuciones
-	extrajudiciales y la tortura.  Más recientemente ha sido vinculado con
-	la lucha contra la impunidad, y también con el deber de los Estados de
-	realizar investigaciones eficaces de las violaciones graves de los
-	derechos humanos y el derecho a un recurso judicial efectivo.  Para la
-	CIDH este derecho se deriva fundamentalmente del deber general de los
-	Estados de respetar y garantizar los derechos humanos, el derecho a ser
-	oído por un tribunal competente, independiente e imparcial, el derecho
-	a un recurso efectivo y la protección judicial y el derecho a solicitar
-	información.  La Corte IDH considera que dicho derecho, no se limita a
-	los casos de desaparición forzada sino que se aplica a cualquier tipo
-	de violación manifiesta de los derechos humanos. Este derecho se
-	aplica a todas las violaciones manifiestas de los derechos humanos y a
-	las infracciones graves del derecho internacional humanitario.  Para
-	más información, revisar el documento de juristas colombianos sobre el
-	derecho a la verdad.
+		Tiene su origen en el DIH como aquél derecho que tienen los familiares
+		a conocer la suerte de las víctimas, y en la obligación de las partes
+		en conflictos armados de buscar a los desaparecidos.  Forma parte de
+		dicho derecho por estar sancionado expresamente en el art. 32 del
+		Protocolo Adicional a los Convenios de Ginebra de 1949. Sin embargo, si
+		bien en un principio sólo hizo referencia a las desapariciones
+		forzadas, el derecho a la verdad se ha ampliado progresivamente a otras
+		violaciones graves a los derechos humanos como las ejecuciones
+		extrajudiciales y la tortura.  Más recientemente ha sido vinculado con
+		la lucha contra la impunidad, y también con el deber de los Estados de
+		realizar investigaciones eficaces de las violaciones graves de los
+		derechos humanos y el derecho a un recurso judicial efectivo.  Para la
+		CIDH este derecho se deriva fundamentalmente del deber general de los
+		Estados de respetar y garantizar los derechos humanos, el derecho a ser
+		oído por un tribunal competente, independiente e imparcial, el derecho
+		a un recurso efectivo y la protección judicial y el derecho a solicitar
+		información.  La Corte IDH considera que dicho derecho, no se limita a
+		los casos de desaparición forzada sino que se aplica a cualquier tipo
+		de violación manifiesta de los derechos humanos. Este derecho se
+		aplica a todas las violaciones manifiestas de los derechos humanos y a
+		las infracciones graves del derecho internacional humanitario.  Para
+		más información, revisar el documento de juristas colombianos sobre el
+		derecho a la verdad.
 
 - Declaración sobre el Derecho al Desarrollo
 
@@ -1219,19 +1221,21 @@
 	el principio de la primacía), la imprescriptibilidad y de la no
 	admisión de inmunidad.
 
-## Referencias a la Ayuda Humanitaria
-+ Declaración y Programa de Acción de Viena, reafirma el derecho de
-  buscar refugio contra persecuciones y la obtención de soluciones
-  duraderas y la prestación de ayuda humanitaria a las víctimas de
-  cualquier tipo de catastrofe natural o humana.
-+ Convención de los Derechos del Niño
+- Referencias a la Ayuda Humanitaria
 
-## Convención sobre el Estatuto de los Refugiados, 1951 Definición de
-refugiado: persona que es perseguida o tiene fundado temor de persecusión, por
-motivos de raza, religión, nacionalidad, grupo social u opiniones políticas y
-se encuentra fuera del país de su nacionalidad o residencia, y que no puede o
-no quiere volver a ese país en virtud de persecución o fundado temor de
-persecución.
+	+ Declaración y Programa de Acción de Viena, reafirma el derecho de
+	  buscar refugio contra persecuciones y la obtención de soluciones
+	  duraderas y la prestación de ayuda humanitaria a las víctimas de
+	  cualquier tipo de catastrofe natural o humana.
+	+ Convención de los Derechos del Niño
+
+- Convención sobre el Estatuto de los Refugiados, 1951 Definición de
+
+	refugiado: persona que es perseguida o tiene fundado temor de persecusión, por
+	motivos de raza, religión, nacionalidad, grupo social u opiniones políticas y
+	se encuentra fuera del país de su nacionalidad o residencia, y que no puede o
+	no quiere volver a ese país en virtud de persecución o fundado temor de
+	persecución.
 
 
 # 10. Mecanismos Nacionales de Protección de los DD.HH.  ## Mecanismos Político

@@ -796,6 +796,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Servidumbre**: Es un derecho real limitado que consiste en un gravamen impuesto sobre un predio en utilidad de otro, de distinto dueño.
 
+**Sistema Penal Subterráneo**: Se conoce, en la criminología latinoamericana, como aquella dimensión del funcionamiento del aparato represivo que opera en las cárceles y se caracteriza por la violación permanente de derechos.
+
 **Sistema Procesal Penal**: Es un mecanismo racional de investigación persecución y juzgamiento de las conductas humanas que lesionan bienes jurídicos penalmente tutelados estableciendo un régimen de garantías que fija los límites más allá de los cuales la actividad persecutoria estatal no puede extenderse sin vulnerar ilegítimamente los derechos individuales de las personas.
 
 **Sociedad Anónima**: Es aquella formada por la reunión de un fondo común, suministrado por accionistas responsables sólo por sus respectivos aportes y administrada por un directorio integrado por miembros esencialmente revocables.
