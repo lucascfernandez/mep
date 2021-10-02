@@ -22,7 +22,14 @@ author: lucasc.fernandez@gmail.com
 
 *Saludos!*
 
-## MATERIAL ESTUDIO
+## DOCUMENTOS
+
+A continuación estarán listados aquellos documentos concluidos por el autor:
+
+- [Breve Introducción a la Historia de los Derechos Humanos](https://drive.google.com/file/d/1x1HLbfsUJccA8QyGj-xKiYiQtrqvCof2/view?usp=sharing)	
+
+
+## MATERIAL DE ESTUDIO
 
 Para acceder a los apuntes antes mencionados, ir a:
 
@@ -39,7 +46,7 @@ Para acceder al glosario con conceptos, ir a:
 
 *(Se recuerda que estos materiales están en constante modificación, y no representan bajo ningún aspecto un trabajo concluido)*
 
-## ABREVIATURAS
+## Abreviaturas
 
 Dado que los apuntes fueron confeccionados privilegiando la rapidez y la síntesis, se recomienda tener presente las siguientes abreviaturas:
 
@@ -64,7 +71,7 @@ Con el fin de que el contenido de los apuntes tengan relación con las materias 
 
 - [Carpeta con Esquemas](https://drive.google.com/drive/folders/1LKwkIFfM3sOfk-ea_Xww4Hpz6z_gED4m?usp=sharing)
 
-### Tarjetas de Memoria
+### Tarjetas para Memorizar o Flashcards
 
 El autor también pone a disposición del visitante sus mazos con tarjetas de memorias de la aplicación [Anki](https://ankiweb.net) la cual es gratuita, simple y funcional.
 
@@ -95,7 +102,7 @@ Teniendo presente una mejor instancia de análisis, y de concentración al momen
 
 - [Carpeta de Audios](https://drive.google.com/drive/folders/1I50MrC5LsfSD77XpfU3vgcf2zxVlDjzS?usp=sharing)
 
-
+---
 # DOTFILES
 
 

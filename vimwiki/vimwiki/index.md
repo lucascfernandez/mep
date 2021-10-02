@@ -5,11 +5,11 @@
 #  DERECHO
 
 
-* [[Conceptos]]
+* [[conceptos]]
 
-* [[Civil]]
-* [[Humanos]]
-* [[Procesal]]
+* [[civil]]
+* [[humanos]]
+* [[procesal]]
 
 
-* [[Notas]]
+* [[notas]]

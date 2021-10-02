@@ -643,6 +643,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Persona** (art. 55 CC): Son personas todos los individuos de la especie humana, cualquiera sea su edad, sexo, estirpe o condición.
 
+**Persona con Discapacidad** (Convención Internacional sobre los Derechos de las Personas con Discapacidad): Las personas con discapacidad incluyen a aquellas que tengas deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás.
+
 **Persona Jurídica**: Es una persona ficticia capaz de ejercer derechos y contraer obligaciones civiles (y penales), y de ser representada judicial y extrajudicialmente.
 
 **Plazo**: Consiste en un hecho futuro y cierto del cual depende la exigibilidad o extinción de un acto.
